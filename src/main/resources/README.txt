@@ -1,0 +1,1 @@
+Run the class FxPublisherApplicationTests as a JUnit test in Eclipse.
